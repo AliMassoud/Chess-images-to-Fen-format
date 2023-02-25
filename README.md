@@ -1,4 +1,4 @@
-# AI_Chess
+# Convert chess images to fen format
 
 - To run the app, kindly run requirements.txt file after you navigate to the project directory using:
 ```python
